@@ -1,5 +1,5 @@
-src,sess_cnt,bounce_rate
-iTunes,4333,0.0005
-App Store,1297,0.0
-Organic,451,0.0
-Unknown,101,0.0
+src,bounce_rate
+iTunes,0.0005
+App Store,0
+Organic,0
+Unknown,0
